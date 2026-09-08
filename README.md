@@ -217,11 +217,6 @@ This approach lets the tracking logic, map rendering, and update pipeline be ful
 
 ---
 
-<h2 align="center">🟣 GitHub Trophies</h2>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Akhileshhtippe&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
@@ -229,11 +224,7 @@ This approach lets the tracking logic, map rendering, and update pipeline be ful
 
 ---
 
-<h2 align="center">🟣 Contribution Activity</h2>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akhileshhtippe&theme=react-dark&bg_color=0d1117&color=A78BFA&line=7C3AED&point=E9D5FF&hide_border=true" width="100%"/>
 
 </div>
 
